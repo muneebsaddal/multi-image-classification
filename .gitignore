@@ -1,1 +1,4 @@
 dataset
+
+# Local configuration and generated runtime files
+.DS_Store
